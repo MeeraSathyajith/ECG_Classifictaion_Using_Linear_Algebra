@@ -100,6 +100,6 @@ ECG-Classification/
 - **Confusion Matrix**:  14185        235
                          1456        1635
   ---
-## **Future Work
+## **Future Work**
 -Multi-class Classification: Extend the model to detect specific types of arrhythmia (e.g., atrial fibrillation, ventricular tachycardia).
 
